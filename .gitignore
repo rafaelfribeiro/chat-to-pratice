@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+.env.*
+.DS_Store
+*.log
+
+# Docker
+*.pid
+dist/
+build/
+coverage/
+logs/
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# MySQL dumps
+*.sql
+
+# Redis dump
+*.rdb
+
+docker-compose.override.yml
